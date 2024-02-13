@@ -1,2 +1,2 @@
 # Fundamentos_de_Python
-Repositorio de lo realizado en el curso de Fundamentos de Python por Netzun
+Repositorio de los ejercicios, programas y anotaciones realizadas durante el curso "Fundamentos de Python" impartido por la compañía Netzun
